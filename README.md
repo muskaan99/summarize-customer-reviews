@@ -8,8 +8,8 @@ The project aims to summarize customer reviews for products listed on any e-comm
 
 ## Example
 
-{Reviews for product id='' in dataset}
+### Reviews for product id='' in dataset
 ![image](https://github.com/muskaan99/summarize-customer-reviews/assets/68809236/8d61fe50-17ff-4723-b33b-126c335bcb21)
 
-{Generated summary}
+### Generated summary
 ![image](https://github.com/muskaan99/summarize-customer-reviews/assets/68809236/78e73263-7820-419a-abe7-5cc4c19da8ec)
